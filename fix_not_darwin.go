@@ -1,4 +1,4 @@
-// +build linux windows
+// +build !darwin arm arm64
 
 package glfwMojaveFix
 
